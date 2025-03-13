@@ -5,7 +5,7 @@
 ## YEAR: 3
 
 ### Aim:
-To understand and implement various counter operations in Programmable Logic Controller (PLC) ladder logic.
+To understand and implement various counter operations in Programmable Logic Controller (PLC) ladder logic. 
 
 ### Apparatus Required:
 Programmable Logic Controller (PLC): A PLC that supports counter functions.
