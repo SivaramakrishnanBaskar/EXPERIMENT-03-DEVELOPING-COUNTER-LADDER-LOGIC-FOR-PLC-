@@ -1,8 +1,8 @@
 # EXPERIMENT-03-DEVELOPING-COUNTER-LADDER-LOGIC-FOR-PLC-
-## NAME: M MANI SRI LATHA
-## REGISTER NUMBER: 212223110025
+## NAME: Sivaramakrishnan B 
+## REGISTER NUMBER: 212222110044
 ## DEPARTMENT: BE.CSE(IOT)
-## YEAR: 2
+## YEAR: 3
 
 ### Aim:
 To understand and implement various counter operations in Programmable Logic Controller (PLC) ladder logic.
